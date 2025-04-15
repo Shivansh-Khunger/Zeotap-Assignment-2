@@ -41,16 +41,6 @@ pnpm install
 # or yarn install / ppnpm install
 ```
 
-### 3. Configure Environment Variables
-
-#### Backend
-
-- Copy `.env.example` to `.env` and update values as needed.
-
-#### Frontend
-
-- Copy `.env.local.example` to `.env.local` and update API endpoint if necessary.
-
 ### 4. Run the Development Servers
 
 #### Backend
